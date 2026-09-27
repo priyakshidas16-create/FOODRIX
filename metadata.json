@@ -1,0 +1,7 @@
+{
+  "name": "Legal Metrology Compliance Inspector",
+  "description": "Automated compliance verification system for Packaged Commodities under Legal Metrology (Packaged Commodities) Rules, 2011 with AI label scanning, mandatory declaration detection, and weight discrepancy auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
